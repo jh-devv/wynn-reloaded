@@ -1,0 +1,13 @@
+name = "Wynn Reloaded"
+author = "jh-devv"
+version = ""
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2e78a752aeb528757742e0b20ea6d6ff9dc830fac3f939b904fe3943d1fb378f"
+
+[versions]
+fabric = "0.14.22"
+minecraft = "1.19.4"

@@ -1,0 +1,13 @@
+name = "Dynamic Sound Filters"
+filename = "DynamicSoundFilters-1.4.0+1.19.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JV2wFevs/versions/cPnstDbE/DynamicSoundFilters-1.4.0%2B1.19.4.jar"
+hash-format = "sha1"
+hash = "d9191ef34ceaa50a5309f2e43d5a7ec4e3c4c1e8"
+
+[update]
+[update.modrinth]
+mod-id = "JV2wFevs"
+version = "cPnstDbE"
