@@ -1,0 +1,160 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = wynn
+  action = setbackgroundpanorama
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_options_button
+  x = 0
+  action = movebutton
+  y = -36
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = bottom-centered
+  x = -100
+  action = movebutton
+  y = -20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = mid-centered
+  x = 103
+  action = movebutton
+  y = 42
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = mid-centered
+  x = -125
+  action = movebutton
+  y = 42
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 165
+  action = deep_customization_element:title_screen_branding
+  actionid = 17486664-c0d5-4b8c-9582-3e78f860b4df1673002848615
+  y = 388
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 423
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 6bcf50c0-0874-4996-8fc1-18c3ddf9e4421673002848659
+  y = 190
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 183
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 9dfa5156-de35-48c8-bf2f-856f053225d61673002848661
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 61f65358-25a5-42ef-8ffc-c5ce5c93b4791673002848661
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = element
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_options_button
+  buttonaction = joinserver;play.wynncraft.com%btnaction_splitter_fm%
+  x = 0
+  width = 200
+  action = addbutton
+  actionid = 2125e65b-daf7-4cce-ad7a-49b9934d13be1673002882086
+  y = -84
+  label = Play Wynncraft
+  height = 20
+}
+
+customization {
+  orientation = element
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_options_button
+  buttonaction = joinserver;lobby.wynncraft.com%btnaction_splitter_fm%
+  x = 0
+  width = 200
+  action = addbutton
+  actionid = e9e31d78-53b4-4e7a-a285-be3d2820b3f11673004910908
+  y = -60
+  label = Join Wynncraft lobby
+  height = 20
+}
+
+customization {
+  path = config/fancymenu/wynn/wynncraft_logo.png
+  orientation = top-centered
+  x = -141
+  width = 283
+  action = addtexture
+  actionid = 5c183bf7-50f5-4a80-af8b-75dac89c7ba71673006981930
+  y = 0
+  height = 100
+}
+

@@ -1,0 +1,13 @@
+name = "MAmbience"
+filename = "Mambience-5.3.0+1.19.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qPzLkTsE/versions/r724yxyR/Mambience-5.3.0%2B1.19.4.jar"
+hash-format = "sha1"
+hash = "1bbead9df6bbb3451d90359ef2ec0254422812b4"
+
+[update]
+[update.modrinth]
+mod-id = "qPzLkTsE"
+version = "r724yxyR"
