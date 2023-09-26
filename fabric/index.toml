@@ -255,6 +255,11 @@ hash = "678ecc9241860f54aa51acc300dcec18d96322bb593a2db6574e7de952d6038f"
 metafile = true
 
 [[files]]
+file = "mods/fuy_gg.pw.toml"
+hash = "7f892daf32ac3b7f73a4f6897e0143a2cb715c0aa3255f1fd9130fafa5d94a00"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "5ac5d79a9464b3d0ae0a4497392cf6e46f92212590a740440d226a249fa53f4c"
 metafile = true
