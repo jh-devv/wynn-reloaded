@@ -10,7 +10,6 @@
 
 ### Miscellaneous
 
-* **fabric:** bump version to fabric-v0.1.0 ([03525c2](https://github.com/jh-devv/wynn-reloaded/commit/03525c22c0da5e789444fdf8f77a785f1ffb9dab))
 * **fabric:** updated mods ([92e0b93](https://github.com/jh-devv/wynn-reloaded/commit/92e0b93c653929ca84cd9468a3d7f46528842a89))
 
 ## 0.1.0 (2023-09-21)
@@ -24,3 +23,4 @@
 ### Miscellaneous Chores
 
 * **main:** release 0.1.0 ([6341b00](https://github.com/jh-devv/wynn-reloaded/commit/6341b0049043d9a8f4546e3df91a6242bf026495))
+* **fabric:** bump version to fabric-v0.1.0 ([03525c2](https://github.com/jh-devv/wynn-reloaded/commit/03525c22c0da5e789444fdf8f77a785f1ffb9dab))
