@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.2](https://github.com/jh-devv/wynn-reloaded/compare/fabric-v0.2.1...fabric-v0.2.2) (2023-09-26)
+
+
+### ♻ Bug Fixes
+
+* **fabric:** Replace Complementary Shaders v4 with Unbound ([713d4d7](https://github.com/jh-devv/wynn-reloaded/commit/713d4d72f3e27f648630ba607fdbd19e02b9d000))
+
 ## [0.2.1](https://github.com/jh-devv/wynn-reloaded/compare/fabric-v0.2.0...fabric-v0.2.1) (2023-09-26)
 
 
