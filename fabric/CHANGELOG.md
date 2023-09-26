@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.2.1](https://github.com/jh-devv/wynn-reloaded/compare/fabric-v0.2.0...fabric-v0.2.1) (2023-09-26)
+
+
+### Bug Fixes
+
+* **fabric:** Remove Midnight Controls, Causes issues with Wynntils ([de5f74a](https://github.com/jh-devv/wynn-reloaded/commit/de5f74ac509290ae64d17ff3bfa8c517012641b2))
+
+
+### Miscellaneous
+
+* **fabric:** bump version to fabric-v0.2.0 ([c2b336e](https://github.com/jh-devv/wynn-reloaded/commit/c2b336ea69d1208f2889a36bcfbffb01b0074a2b))
+
 ## [0.2.0](https://github.com/jh-devv/wynn-reloaded/compare/fabric-v0.1.0...fabric-v0.2.0) (2023-09-26)
 
 
