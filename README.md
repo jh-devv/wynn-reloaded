@@ -1,8 +1,8 @@
-# Wynn Reloaded
+# Wynncraft Reloaded
 
 ![Minecraft Badge](https://img.shields.io/badge/Minecraft-62B47A?logo=minecraft&logoColor=fff&style=for-the-badge)![Modrinth Badge](https://img.shields.io/badge/Modrinth-00AF5C?logo=modrinth&logoColor=fff&style=for-the-badge)
 
-**Wynn Reloaded** is a Curated Compilation of Mods Enhancing Quality of Life: Empowered by Wynntils
+**Wynncraft Reloaded** is a Curated Compilation of Mods Enhancing Quality of Life: Empowered by Wynntils
 
 This Project is Powered By:
 
