@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "8c2f025206a96b2537a83f2d1fc10461e2a511e9cdbb8a120024299f88b046f5"
+hash = "506e65b514f4b6c5ad80820a8ee741b0ba66f874fd2a68255b8ee306049e42d2"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "b8cb0fbb7b57ea25bf7d7a5035b76ab188d8caedbb8ea50578a319a0b4d871dc"
+hash = "df4ef9b13881c60bbdbefb798a9c4654a0c8dd6ed7f84a878ab9c49db5e2ca18"
 metafile = true
 
 [[files]]
@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/fuy_gg.pw.toml"
-hash = "7f892daf32ac3b7f73a4f6897e0143a2cb715c0aa3255f1fd9130fafa5d94a00"
+hash = "ac59ee93c1d673fe84f696c559d04753a83ec224a55be2227baf08ef306d2d34"
 metafile = true
 
 [[files]]
@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "1c1fb401b3fef6dc52ce5e0fec5e5a8232fcb7d1f76bdecae82d9b7314a1419e"
+hash = "6da7c4d8bba0c49352ddfecec65d2e9c71a41738913b63665a0ee79eb75c890b"
 metafile = true
 
 [[files]]
@@ -411,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/wynntils.pw.toml"
-hash = "df1e24bd494b2210842cd1321ec1f9adbd88ddc36003843fa4575075a1c5e294"
+hash = "d6d75d9b7818034806ea5c5344a6b83d2cf1cc2da013fab7ffa0256b871185c4"
 metafile = true
 
 [[files]]
