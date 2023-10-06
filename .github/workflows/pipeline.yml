@@ -106,14 +106,12 @@ jobs:
       - name: Get Latest tag
         id: tag
         uses: WyriHaximus/github-action-get-previous-tag@v1
-        if: ${{ steps.release-please.outputs.releases_created }}
 
       - name: Bump version
         uses: ./.github/actions/bump-pack
         with:
           release-tag: ${{ steps.tag.outputs.tag }}
           modpack: ${{ matrix.modpack }}
-        if: ${{ steps.release-please.outputs.releases_created }}
 
 
       # --- Handle the configs
@@ -123,7 +121,6 @@ jobs:
         uses: ./.github/actions/parse
         with:
           modpack: ${{ matrix.modpack }}
-        if: ${{ steps.release-please.outputs.releases_created }}
 
       - name: Set mod vendors
         id: set-mod-vendors
@@ -131,7 +128,6 @@ jobs:
           [[ ! -z "${{ secrets.CURSEFORGE_TOKEN }}" && ! -z "${{ secrets.CURSEFORGE_ID }}" ]] && echo "curseforge=true" >> $GITHUB_OUTPUT || echo "curseforge=false" >> $GITHUB_OUTPUT
           [[ ! -z "${{ secrets.MODRINTH_TOKEN }}" && ! -z "${{ secrets.MODRINTH_ID }}" ]] && echo "modrinth=true" >> $GITHUB_OUTPUT || echo "modrinth=false" >> $GITHUB_OUTPUT
         shell: bash
-        if: ${{ steps.release-please.outputs.releases_created }}
 
 
       # --- Build an release
@@ -143,7 +139,6 @@ jobs:
           release-tag: ${{ steps.tag.outputs.tag }}
           build-modrinth: ${{ env.default-release-modrinth }}
           build-curse: ${{ env.default-release-curseforge }}
-        if: ${{ steps.release-please.outputs.releases_created }}
 
       - name: Release modpack to vendors
         uses: ./.github/actions/release
@@ -156,5 +151,4 @@ jobs:
           MODRINTH_ID: ${{ secrets.MODRINTH_ID }}
           MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
         if: |
-          steps.release-please.outputs.releases_created &&
           (steps.set-mod-vendors.outputs.modrinth || steps.set-mod-vendors.outputs.curseforge)
