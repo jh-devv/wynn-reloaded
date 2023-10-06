@@ -1,6 +1,6 @@
 name = "Wynn Reloaded"
 author = "jh-devv"
-version = "fabric-v0.2.3"
+version = "fabric-v0.2.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
