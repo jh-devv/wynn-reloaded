@@ -90,6 +90,11 @@ hash = "23981644f04dfd6272614c3f1b23502af9d772a8044b19f62d699f6b73b3a625"
 metafile = true
 
 [[files]]
+file = "mods/autohud.pw.toml"
+hash = "2914429d56607d1de8f1c9596f8919543c31d9b6d1411570037ed1c507c4a53e"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "296b4e7a1b7eee84117cc64362f27a981a820e9a39c9d8acae9937c0fca99da6"
 metafile = true
