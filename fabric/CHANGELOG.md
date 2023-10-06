@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.4](https://github.com/jh-devv/wynn-reloaded/compare/fabric-v0.2.3...fabric-v0.2.4) (2023-10-06)
+
+
+### ☀ Modpack Changes
+
+* **fabric:** Added Wynnlib ([8fbc89e](https://github.com/jh-devv/wynn-reloaded/commit/8fbc89ed501282eefce53f3e95a1580b268d858d))
+
 ## [0.2.3](https://github.com/jh-devv/wynn-reloaded/compare/fabric-v0.2.2...fabric-v0.2.3) (2023-10-06)
 
 
