@@ -20,23 +20,13 @@ runs:
   steps:
     - name: Check Out Git Repository
       uses: actions/checkout@v3
-      with:
-        ref: ${{ github.head_ref }}
-        fetch-depth: 0
 
     - name: Set the version
       run: sed -i 's/version = "[^"]*"/version = "${{ inputs.release-tag }}"/' ${{ inputs.modpack }}/${{ inputs.pack-file }}
       shell: bash
-    
-    - name: Commit files
-      run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        git add .
-        git commit -a -m "chore(${{ inputs.modpack }}): bump version to ${{ inputs.release-tag }}"
-      shell: bash
-        
-    - name: Push changes
-      uses: ad-m/github-push-action@master
+
+    - name: Push the Updated Version
+      uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        force: true
+        push_options: --force
+        commit_message: "chore(${{ inputs.modpack }}): bump version to ${{ inputs.release-tag }}"
