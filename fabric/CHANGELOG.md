@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.3](https://github.com/jh-devv/wynn-reloaded/compare/fabric-v0.2.2...fabric-v0.2.3) (2023-10-06)
+
+
+### ☀ Modpack Changes
+
+* **fabric:** Added Entity View Distance ([aab9f94](https://github.com/jh-devv/wynn-reloaded/commit/aab9f94044e0aa1b2687d23998ea0e470eae8d30))
+
 ## [0.2.2](https://github.com/jh-devv/wynn-reloaded/compare/fabric-v0.2.1...fabric-v0.2.2) (2023-09-26)
 
 
