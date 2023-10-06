@@ -415,6 +415,11 @@ hash = "0206ee5316f22e23b319eff6e31eb328908bb0ad8b57463be202175061a4a7dc"
 metafile = true
 
 [[files]]
+file = "mods/wynnlib.pw.toml"
+hash = "7fc1b187b6d0c7672fc785a55915d77bcd9fc5eefcf526e63bf5da7edb5b3e38"
+metafile = true
+
+[[files]]
 file = "mods/wynntils.pw.toml"
 hash = "d6d75d9b7818034806ea5c5344a6b83d2cf1cc2da013fab7ffa0256b871185c4"
 metafile = true

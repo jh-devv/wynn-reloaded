@@ -1,0 +1,7 @@
+name = "wynnlib"
+filename = "wynnlib-0.2.12-1.19.4.jar"
+
+[download]
+url = "https://github.com/Commander07/WynnLibFabric/releases/download/0.2.12-1.19.4/wynnlib-0.2.12-1.19.4.jar"
+hash-format = "sha256"
+hash = "a9552de93e251a2fd1db4d002a16691989a7b74570bcba7c20a06a709bac2a23"
