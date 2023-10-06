@@ -200,6 +200,11 @@ hash = "bb153ad72c1e1f65131587240fe74cfa305e2fd11d3f776b4c2a3e9f3e33bf3d"
 metafile = true
 
 [[files]]
+file = "mods/entity-view-distance.pw.toml"
+hash = "1b63c77bc60ab5a82fdc4457859ce04aaca734bfefbdfa2f8491c6aaf9ca7319"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "a29a6474aff0264882b7e6e010d8beadfb3291e361d171aebb0cb158f4892812"
 metafile = true
