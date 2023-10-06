@@ -1,6 +1,7 @@
 # Changelog
 
 ## [0.2.5](https://github.com/jh-devv/wynn-reloaded/compare/fabric-v0.2.4...fabric-v0.2.5) (2023-10-06)
+Added Euphoria Patches that makes your game look even better than ever!
 
 
 ### ☀ Modpack Changes
