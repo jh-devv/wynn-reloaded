@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.6](https://github.com/jh-devv/wynn-reloaded/compare/fabric-v0.2.5...fabric-v0.2.6) (2023-10-06)
+
+
+### ☀ Modpack Changes
+
+* **fabric:** Add autohud ([38b85ed](https://github.com/jh-devv/wynn-reloaded/commit/38b85ed5fc3ab03c7dd7688ac13f15959bd4fd77))
+* **fabric:** Add raised ([7759f15](https://github.com/jh-devv/wynn-reloaded/commit/7759f15a8579095bd6f34077bdaef0fb36511376))
+
 ## [0.2.5](https://github.com/jh-devv/wynn-reloaded/compare/fabric-v0.2.4...fabric-v0.2.5) (2023-10-06)
 Added Euphoria Patches that makes your game look even better than ever!
 
