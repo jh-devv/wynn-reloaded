@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Wynncraft Reloaded</h1>
+  <h1>✴ Wynncraft Reloaded ✴</h1>
 </div>
 
 <p align="center">A Curated Compilation of Mods Enhancing Quality of Life: Empowered by Wynntils
