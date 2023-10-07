@@ -23,8 +23,7 @@ This Project is Powered By:
    <source media="(prefers-color-scheme: light)" srcset="https://github.com/jh-devv/mc-modpack-kit/assets/122896463/55e900a0-6de4-49e7-a9b0-2a8c764c9a4a">
   <img alt="Logo">
 </picture>
-</a>
-<br>
+</a><br>
 
 > [!NOTE]
 > This project adheres to the release cycle of [Wynntils](https://modrinth.com/mod/wynntils). Version 1.20.2 will be launched once the Quilt API is updated to this version and Wynnlib has been successfully ported! :3
