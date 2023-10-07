@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.7](https://github.com/jh-devv/wynn-reloaded/compare/fabric-v0.2.6...fabric-v0.2.7) (2023-10-07)
+
+
+### ♻ Bug Fixes
+
+* **fabric:** Disable automatic updates for fuy.gg ([cb7bc4a](https://github.com/jh-devv/wynn-reloaded/commit/cb7bc4a4cac0833f6c72f968b854a5ba97d0c967))
+* **fabric:** Disable overlapping icon for Wynnlib by default ([09c2366](https://github.com/jh-devv/wynn-reloaded/commit/09c23661a917511e83ef3e87351a95dccb7dd3c8))
+
 ## [0.2.6](https://github.com/jh-devv/wynn-reloaded/compare/fabric-v0.2.5...fabric-v0.2.6) (2023-10-06)
 
 
