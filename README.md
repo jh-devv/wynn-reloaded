@@ -25,6 +25,9 @@ This Project is Powered By:
 </picture>
 </a>
 
+> [!NOTE]
+> This project adheres to the release cycle of [Wynntils](https://modrinth.com/mod/wynntils). Version 1.20.2 will be launched once the Quilt API is updated to this version and Wynnlib has been successfully ported! :3
+
 ## Features
 
 - ## ☀ Wynntils
